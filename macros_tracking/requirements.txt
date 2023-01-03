@@ -1,0 +1,2 @@
+beautifulsoup4==4.11.1
+mlflow==2.1.1
